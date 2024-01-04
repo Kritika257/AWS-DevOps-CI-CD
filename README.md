@@ -39,7 +39,7 @@ Open the AWS **CodeBuild** console and create a new build project. Use the provi
 
 # 2.2 Configure Artifacts
 
-Edit the build project to specify an S3 bucket and a folder for storing artifacts. Create a folder in the S3 bucket named `code-output-demo-app`.
+Edit the build project to specify an S3 bucket and a folder for storing artifacts. Create a folder in the S3 bucket named `artifact`.
 
 # 2.3 Run the Build
 
